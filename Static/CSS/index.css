@@ -1,3 +1,11 @@
 @import url('articleTitle.css');
 @import url('articleImages.css');
-@import url('articleParagraph.css');
+@import url('articleText.css');
+
+.col-6 col-md-4 {
+    background-color: red;
+}
+
+#prov {
+    background-color: aqua;
+}
